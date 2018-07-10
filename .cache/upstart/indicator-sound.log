@@ -1,0 +1,28 @@
+
+(process:1945): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.475177 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1945): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.787231 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(unity-control-center:7031): sound-cc-panel-WARNING **: Unable to find stream for bar '(null)'
+
+(unity-control-center:7031): sound-cc-panel-WARNING **: active_output_update - couldn't find a stream from the supposed active output
+
+(unity-control-center:7031): sound-cc-panel-WARNING **: active_input_update - couldn't find a stream from the supposed active input
+
+(process:1945): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.809525 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1945): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.895828 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1945): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.787231 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1945): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.895828 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1945): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.787231 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1945): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.895828 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1945): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.787231 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1945): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.788696 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1945): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.904755 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'

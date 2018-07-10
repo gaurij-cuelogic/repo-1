@@ -1,0 +1,1 @@
+{"pref-hotfix-tls-13-avast-rollback":{"name":"pref-hotfix-tls-13-avast-rollback","branch":"default","expired":true,"lastSeen":"2018-07-06T09:09:06.066Z","preferenceName":"security.tls.version.max","preferenceValue":3,"preferenceType":"integer","previousPreferenceValue":4,"preferenceBranchType":"default","experimentType":"exp"}}
