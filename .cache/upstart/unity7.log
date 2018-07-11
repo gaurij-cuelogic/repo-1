@@ -234,3 +234,22 @@ WARN  2018-07-11 15:24:07 unity.lockscreen.suspendinhibitormanager SuspendInhibi
 [1:15:0711/162054.801314:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
 [1:15:0711/162101.910602:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
 [1:15:0711/162339.496768:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/162708.415379:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[2870:2898:0711/162906.728319:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2870:2898:0711/162906.764539:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1:15:0711/163341.390606:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/163359.406078:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/163655.217710:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/163655.514230:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/163655.526752:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/163655.543388:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/163655.559649:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/163655.576410:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/163655.598554:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[3102:3102:0711/163833.271003:ERROR:buffer_manager.cc(461)] [.DisplayCompositor-0x1257a752d500]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[1:15:0711/163908.367488:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/163908.916399:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/163909.011227:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/163909.054187:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[2870:2898:0711/163948.797313:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2870:2898:0711/163948.830238:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
