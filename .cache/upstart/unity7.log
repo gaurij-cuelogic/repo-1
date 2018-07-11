@@ -229,3 +229,8 @@ WARN  2018-07-11 15:24:07 unity.lockscreen.suspendinhibitormanager SuspendInhibi
 [1:15:0711/161307.668537:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
 [1:15:0711/161337.958316:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
 [1:15:0711/161501.442488:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/161719.999043:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/161720.078811:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/162054.801314:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/162101.910602:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0711/162339.496768:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}

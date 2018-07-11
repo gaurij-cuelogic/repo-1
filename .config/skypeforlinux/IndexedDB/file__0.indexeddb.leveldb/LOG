@@ -1,3 +1,12 @@
 2018/07/11-12:38:25.240 2171 Reusing MANIFEST /home/gaurijoshi/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
 2018/07/11-12:38:25.240 2171 Recovering log #4
 2018/07/11-12:38:25.380 2171 Reusing old log /home/gaurijoshi/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2018/07/11-16:20:45.701 9233 Level-0 table #8: started
+2018/07/11-16:20:45.789 9233 Level-0 table #8: 1432654 bytes OK
+2018/07/11-16:20:45.823 9233 Delete type=0 #4
+2018/07/11-16:22:23.533 9233 Compacting 1@1 + 1@2 files
+2018/07/11-16:22:23.668 9233 Generated table #9@1: 2550 keys, 419442 bytes
+2018/07/11-16:22:23.668 9233 Compacted 1@1 + 1@2 files => 419442 bytes
+2018/07/11-16:22:23.739 9233 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/07/11-16:22:23.739 9233 Delete type=2 #8
+2018/07/11-16:22:23.739 9233 Delete type=2 #5
