@@ -479,3 +479,9 @@ WARN  2018-07-10 16:32:40 unity.iconloader IconLoader.cpp:756 Unable to load ico
 [1:15:0710/182500.409297:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
 [1:15:0710/182610.108133:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
 [1:15:0710/182813.026678:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0710/183807.833224:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0710/183917.451896:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0710/184135.638419:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[1:15:0710/184456.453497:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+ERROR 2018-07-10 18:47:55 unityte <unknown>:0 g_value_set_object: assertion 'g_value_type_compatible (G_OBJECT_TYPE (v_object), G_VALUE_TYPE (value))' failed
+[1:15:0710/185149.399150:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
