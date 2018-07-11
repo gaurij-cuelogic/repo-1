@@ -1,3 +1,8 @@
-2018/07/10-12:59:52.702 2454 Reusing MANIFEST /home/gaurijoshi/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2018/07/10-12:59:52.702 2454 Recovering log #3
-2018/07/10-12:59:52.736 2454 Reusing old log /home/gaurijoshi/.config/google-chrome/Default/Session Storage/000003.log 
+2018/07/11-12:39:48.861 2934 Reusing MANIFEST /home/gaurijoshi/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/07/11-12:39:48.862 2934 Recovering log #3
+2018/07/11-12:39:48.924 2934 Level-0 table #3: started
+2018/07/11-12:39:49.006 2934 Level-0 table #3: 16236 bytes OK
+2018/07/11-12:39:49.006 2934 Recovering log #4
+2018/07/11-12:39:49.024 2934 Reusing old log /home/gaurijoshi/.config/google-chrome/Default/Session Storage/000004.log 
+2018/07/11-12:39:49.074 2934 Delete type=0 #3
+2018/07/11-12:39:49.074 2934 Delete type=2 #5

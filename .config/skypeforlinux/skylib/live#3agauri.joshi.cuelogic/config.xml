@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<config version="1.0" serial="6" timestamp="1531222636.3">
+<config version="1.0" serial="12" timestamp="1531304424.5">
   <Lib>
     <Call>
       <ECSCCache>
@@ -13,40 +13,40 @@
     </Call>
     <MDN>
       <RelayTokens>
-        <AcquiredTime>1531207796</AcquiredTime>
-        <ExpirationTime>1531812596</ExpirationTime>
+        <AcquiredTime>1531292908</AcquiredTime>
+        <ExpirationTime>1531897708</ExpirationTime>
         <Realms>
           <_.22realm08.22>
-            <token1>AgAAJPY5eAIB1B2fwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAAH3ikG7Vi9SLsQsZa+J1dELIXHG0=</token1>
-            <token2>iriPvSduAY1j4kT665EK4NbATPc=</token2>
+            <token1>AgAAJCCAiBsB1B5mwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAARy2g32bCQwpddjPT5cp2P0hGvFA=</token1>
+            <token2>TMVMxPyQuUq+zk17Qy39Dl6AyQc=</token2>
           </_.22realm08.22>
           <_.22realm09.22>
-            <token1>AgAAJPY5eAIB1B2fwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAAAepreWsYWRysdrbud2Q6S0donDw=</token1>
-            <token2>Lft+iIrt1diSHjKbstForDc/9bA=</token2>
+            <token1>AgAAJCCAiBsB1B5mwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAAKYMVvqcTEE444f9ObtuxheV4J0Q=</token1>
+            <token2>GJj8hXUu9Um/IK87B7th/aFvdo0=</token2>
           </_.22realm09.22>
           <_.22realm10.22>
-            <token1>AgAAJPY5eAIB1B2fwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAA+i2LVvxoLRrVNUxjLUNtWMVzYYk=</token1>
-            <token2>rPTVbzFsqBAX8uaFs9RfGy5Xl0U=</token2>
+            <token1>AgAAJCCAiBsB1B5mwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAAxnoMbdAJ1eM8YWoXAu631H7h0nY=</token1>
+            <token2>NRedOwXvf9CiZwFDKzqWToU81lE=</token2>
           </_.22realm10.22>
           <_.22realm11.22>
-            <token1>AgAAJPY5eAIB1B2fwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAAEbpe7jIhyJALU4pAA4gk3NBmZmI=</token1>
-            <token2>XmRFxz0nZ7ClagjPM1zY4zRgK2I=</token2>
+            <token1>AgAAJCCAiBsB1B5mwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAAqO9aGIfPSViOYqSAeC9vreBO4vk=</token1>
+            <token2>SEniksBNAXanCAU3Aed6q/IzO1s=</token2>
           </_.22realm11.22>
           <_.22realm12.22>
-            <token1>AgAAJPY5eAIB1B2fwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAAu4cKTFCz8c2gpYxka+qjcnfk+tk=</token1>
-            <token2>M2kEx3PHKmWYKcu2u7Q0OLPhYjM=</token2>
+            <token1>AgAAJCCAiBsB1B5mwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAAyQokHGXvOd+cjw42EfimfvrA9go=</token1>
+            <token2>769MHhWvXu6UOjHKMjpSeqH5q2s=</token2>
           </_.22realm12.22>
           <_.22realm13.22>
-            <token1>AgAAJPY5eAIB1B2fwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAAvud6K4GUQmil2VVLJKMrdou4dbQ=</token1>
-            <token2>VJjFUdAUDPwWWJIt9mvGdM+UPCs=</token2>
+            <token1>AgAAJCCAiBsB1B5mwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAAxwC4euDNJLerIT1wOp4CbeSoLSU=</token1>
+            <token2>kYeDJtGaqlItW4zgvBa8hEy8RX8=</token2>
           </_.22realm13.22>
           <_.22realm14.22>
-            <token1>AgAAJPY5eAIB1B2fwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAAvt/0aZCGZs3juugzLW4YWUt/EWA=</token1>
-            <token2>4zKciDyBqUj3K066rL+bwICiYy0=</token2>
+            <token1>AgAAJCCAiBsB1B5mwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAA+bL8xuR2aOGgEx5wsBeL3lIDI2s=</token1>
+            <token2>Lw7TGvPaRZdmZKsGaUMvwxLEIR4=</token2>
           </_.22realm14.22>
           <_.22rtcmedia.22>
-            <token1>AgAAJPY5eAIB1B2fwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAAmME3IXIOrZm3wuL8HTHikVZG+uU=</token1>
-            <token2>XC6mRkqoYNDBQP5DBhYSSy3wP4U=</token2>
+            <token1>AgAAJCCAiBsB1B5mwHKrqQnx/rleoQeqZPSDEGgIX3IAAAAA1lkZotwsy2rEOkCx7Dgog6Wd5dg=</token1>
+            <token2>O6PrBlW3M35iLiXKIWeX9PtkRjs=</token2>
           </_.22rtcmedia.22>
         </Realms>
       </RelayTokens>
@@ -58,7 +58,7 @@
       <PKstored>2</PKstored>
     </PushNotifications>
     <Trouter>
-      <ConnectionCache>{&#34;AuthTokenHash&#34;:&#34;1f15ec3ef4a36827e22b9b42c529373dd9a5636adf952f0a74ef4099d6241313&#34;,&#34;ConnectedEvent&#34;:&#34;{\&#34;name\&#34;:\&#34;trouter.connected\&#34;,\&#34;args\&#34;:[{\&#34;ccid\&#34;:\&#34;o8SLZKbD37_I\&#34;,\&#34;healthUrl\&#34;:\&#34;https:\/\/go.trouter.io:443\/v3\/h\&#34;,\&#34;id\&#34;:\&#34;6D8DAGNu90M_3ZHSd0ZW6Wdl\&#34;,\&#34;reconnectUrl\&#34;:\&#34;wss:\/\/12-trouter-easia-a.drip.trouter.io:443\/v3\/c?issuer=prod-2&#38;st=1531222335656&#38;se=1531304149656&#38;sr=Aug_AwBjbvdDP92R0ndGVulnZfZ6Uwp7AOGj0BoubazgKQIcyO-tUssI5qZ9D371Kcv2&#38;sig=MK2H3UlVwaR4l5FWD10NqW-cyfG-ZpgcD7MYZIew00k\&#34;,\&#34;surl\&#34;:\&#34;https:\/\/trouter-easia-a.dc.trouter.io:3443\/v3\/f\/12-trouter-easia-a.drip.trouter.io\/6D8DAGNu90M_3ZHSd0ZW6Wdl\/\&#34;,\&#34;url\&#34;:\&#34;https:\/\/12-trouter-easia-a.drip.trouter.io:443\/v3\/f\/12-trouter-easia-a.drip.trouter.io\/6D8DAGNu90M_3ZHSd0ZW6Wdl\/\&#34;,\&#34;se\&#34;:\&#34;1531304149656\&#34;,\&#34;ttl\&#34;:81514,\&#34;dur\&#34;:\&#34;3\&#34;}]}&#34;}</ConnectionCache>
+      <ConnectionCache>{&#34;AuthTokenHash&#34;:&#34;da8d3bc83f932cb61d14dbc064f0a6d10eabc0043e8f95d9a55605fc82248583&#34;,&#34;ConnectedEvent&#34;:&#34;{\&#34;name\&#34;:\&#34;trouter.connected\&#34;,\&#34;args\&#34;:[{\&#34;ccid\&#34;:\&#34;3ZHSd0ZW6Wdl\&#34;,\&#34;healthUrl\&#34;:\&#34;https:\/\/35-trouter-easia-a.drip.trouter.io:443\/v3\/h\&#34;,\&#34;id\&#34;:\&#34;ERoGAPZr9ggqRsiKbTN4qLM-\&#34;,\&#34;reconnectUrl\&#34;:\&#34;wss:\/\/35-trouter-easia-a.drip.trouter.io:443\/v3\/c?issuer=prod-2&#38;st=1531302545704&#38;se=1531382310704&#38;sr=AxEaBgD2a_YIKkbIim0zeKizPoP-IP2bgnUFC2u38UNAI6sFV9lnFiOaNuEN22g-D_5P&#38;sig=yywKEVhhujZPcIxq2vqJPeG3sYQyXpxRZ_JvryfVFqM\&#34;,\&#34;surl\&#34;:\&#34;https:\/\/trouter-easia-a.dc.trouter.io:3443\/v3\/f\/35-trouter-easia-a.drip.trouter.io\/ERoGAPZr9ggqRsiKbTN4qLM-\/\&#34;,\&#34;url\&#34;:\&#34;https:\/\/35-trouter-easia-a.drip.trouter.io:443\/v3\/f\/35-trouter-easia-a.drip.trouter.io\/ERoGAPZr9ggqRsiKbTN4qLM-\/\&#34;,\&#34;se\&#34;:\&#34;1531382310704\&#34;,\&#34;ttl\&#34;:77888,\&#34;dur\&#34;:\&#34;1\&#34;}]}&#34;}</ConnectionCache>
     </Trouter>
   </Lib>
 </config>

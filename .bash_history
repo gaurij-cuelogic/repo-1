@@ -47,3 +47,47 @@ git status
 git commit -m "added some files"
 git log
 git diff HEAD~1
+gedit file1.txt
+rm file2.txt
+rm file1.txt
+git log
+git status
+gedit file3.txt
+git add file3.txt
+echo "this is file 3">file3.txt
+git status
+mv file3  new_file
+mv file1  new_file
+git log
+git status
+mv file1.txt new_file.txt
+mv file3.txt new_file.txt
+git status
+git add -A
+git status
+mkdir logs
+touch logs/log.txt
+git status
+gedit.gitignore
+vim.gitignore
+.gitignore
+gedit .gitignore
+git clone https://github.com/gaurij-cuelogic/rep1.git
+gedit .gitignore
+vim .gitignore
+gedit .gitignore
+ls
+
+git init
+gedit .gitignore
+mkdir logs
+git status
+gedit .gitignore
+gedit.gitignore
+gedit .gitignore
+git branch develop
+git branch
+git checkout develop
+gedit README.txt
+gedit .gitignore
+gedit README.txt
